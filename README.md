@@ -9,13 +9,13 @@
 Copy-paste this into your terminal:
 ```sh
 # clone and go into repo
-git clone https://github.com/anshsrivastava/NerdFetch.git
-cd NerdFetch/
+git clone https://github.com/anshsrivastava/coronafetch.git
+cd coronafetch/
 # install
-install -m755 nerdfetch ~/.local/bin/nerdfetch
+install -m755 coronafetch ~/.local/bin/coronafetch
 # go back and remove the download
 cd ..
-rm -rf NerdFetch/
+rm -rf coronafetch/
 # run
-nerdfetch
+coronafetch
 ```
